@@ -1,0 +1,48 @@
+body{
+  background-color: #222222;
+}
+
+.img_car{
+  max-width: 700px;
+  max-height: 550px;
+}
+
+.shorter{
+  max-width: 745px;
+}
+
+.texto{
+  color: white;
+  font-size: 20px;
+}
+
+.logo{
+  height:25px;
+}
+
+.colorer{
+  margin: 0;
+  background-color: #00748E;
+  color: white;
+}
+
+.justificar{
+  text-align: justify;
+}
+
+.foot{
+  margin: 0;
+  color: white;
+  background-color: black;
+}
+
+.carrera{
+    margin: 0;
+    color: white;
+    background-color: #3C008E;
+}
+
+h4{
+  padding-left: 10%;
+  padding-right: 10%;
+}
