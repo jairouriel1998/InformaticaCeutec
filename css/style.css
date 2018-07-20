@@ -13,7 +13,8 @@ body{
 
 .texto{
   color: white;
-  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 2px rgb(0,200,200);
 }
 
 .logo{
@@ -22,7 +23,7 @@ body{
 
 .colorer{
   margin: 0;
-  background-color: #00748E;
+  background-color: #029EA5;
   color: white;
 }
 
@@ -39,10 +40,48 @@ body{
 .carrera{
     margin: 0;
     color: white;
-    background-color: #3C008E;
+    background-color: #2A029B;
 }
 
 h4{
   padding-left: 10%;
   padding-right: 10%;
+}
+
+.construyendo{
+    text-align: center;
+    background-color: rgba(0,0,0,0);
+}
+
+.img_construccion{
+    background-color: rgb(0,200,200);
+    box-shadow: 5px 10px 10px 10px black;
+    max-width: 80%;
+}
+
+.slider{
+    margin: -40px;
+    background-color: rgba(0,0,0,0);
+}
+
+.img_info{
+    max-width: 400px;
+}
+
+.tamarized{
+    max-width: 700px;
+}
+
+.logo2{
+    max-width: 80%;
+}
+
+.participante{
+    max-width: 100px;
+    max-height: 200px;
+    margin: -10;
+}
+
+.sls{
+ text-align: center;   
 }
