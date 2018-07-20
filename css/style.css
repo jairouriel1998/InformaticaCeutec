@@ -60,7 +60,8 @@ h4{
 }
 
 .slider{
-    margin: -40px;
+    margin-top: -40px;
+    margin-bottom: -40px;
     background-color: rgba(0,0,0,0);
 }
 
@@ -76,12 +77,19 @@ h4{
     max-width: 80%;
 }
 
-.participante{
-    max-width: 100px;
-    max-height: 200px;
-    margin: -10;
+.persontag{
+    background-color: #059B61;
+    color: white;
+    border-radius: 10px;
 }
 
-.sls{
- text-align: center;   
+.img-persontag{
+    max-width: 180px;
+    max-height: 200px;
+    box-shadow: 10px 15px 15px #222222;
 }
+
+.lop{
+    padding: 1%;
+}
+
